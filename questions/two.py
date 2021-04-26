@@ -19,8 +19,8 @@ if percentage >= 70:
 elif percentage <= 70 and percentage >= 60:
     print("First division")
 
-elif percentage <=60 and percentage >= 50:
+elif percentage <= 60 and percentage >= 50:
     print("Second division")
 
-elif percentage <= 40 :
+elif percentage <= 40:
     print("Failed")

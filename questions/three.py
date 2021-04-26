@@ -1,5 +1,5 @@
-''' If the tempreture is greater than 30,it's a hot otherwise if it's less than 10 then cold day,
-otherwise it is neither hot nor cold. '''
+"""If the tempreture is greater than 30,it's a hot otherwise if it's less than 10 then cold day,
+otherwise it is neither hot nor cold."""
 
 temperature = int(input("Enter the temperature: "))
 
